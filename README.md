@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there
+
+I am **Alexander Musikyan**, Java developer. My area of interest includes the development of microservices on Spring Boot. Besides that, I have spent several  years in image & video data processing, as well as copyright protection for them.
+
+### Some projects
+- Service for getting and aggregating data
+- Currency Conversion service
 
 <!--
 **alexandrmusikjan/alexandrmusikjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
